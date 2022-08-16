@@ -1,6 +1,4 @@
 from typing import Optional
-
-
 class Node:
     """
     Provide necessary documentation
@@ -11,8 +9,6 @@ class Node:
         """
         self.data = data
         self.next = next
-
-
 class LinkedList:
     """
     Provide necessary documentation
