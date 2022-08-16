@@ -47,7 +47,7 @@ class Solution:
         :param second_list: Linkedlist with non-negative integers
         :return: returns the sum as a linked list
         """
-        # Write code here
+       
         
         
 
