@@ -28,7 +28,7 @@ class LinkedList:
         Insert node at end of the list
         :param data: integer data that will be used to create a node
         """
-        # Write code here
+       
 
     def status(self):
         """
