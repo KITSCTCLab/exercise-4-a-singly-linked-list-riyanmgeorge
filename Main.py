@@ -29,7 +29,7 @@ class LinkedList:
     def status(self):
         """
         It prints all the elements of list.
-        """
+        ""
         
 
 
